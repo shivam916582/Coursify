@@ -197,7 +197,7 @@ function Home() {
           <div className="text-center sm:text-left">
             <h4 className="font-semibold mb-2">Connects</h4>
             <ul className="space-y-1">
-              <li className="hover:text-white cursor-pointer">github - piyushSingh5009</li>
+              <li className="hover:text-white cursor-pointer">github - piyush5009</li>
               <li className="hover:text-white cursor-pointer">linkedin - piyush-kumar-57b743259</li>
               <li className="hover:text-white cursor-pointer">instagram - piyush_singh.2107</li>
             </ul>
