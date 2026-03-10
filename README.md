@@ -141,7 +141,6 @@ Form validation implemented using Zod for better input handling.
 # 📈 Future Improvements
 
 - Add course ratings and reviews
-- Add instructor profiles
 - Implement course progress tracking
 - Improve recommendation system
 
